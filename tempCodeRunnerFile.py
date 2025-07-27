@@ -1,0 +1,1 @@
+from livekit.plugins.turn_detector.multilingual import MultilingualModel
